@@ -1,1 +1,5 @@
-Este es el primer proyecto git de joankii!!!
+## Overview
+This is an exercise for The Odin Project's JavaScript path.
+
+## Built with
+  - Git
